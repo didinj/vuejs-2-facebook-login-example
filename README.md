@@ -1,4 +1,6 @@
-# vue-facebook-login
+# Vue.js 2 Tutorial: Facebook Login Example
+
+This source code is part of [Vue.js 2 Tutorial: Facebook Login Example]()
 
 ## Project setup
 ```
